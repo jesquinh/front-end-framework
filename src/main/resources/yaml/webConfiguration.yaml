@@ -1,5 +1,5 @@
 url:
-  mrc: 'https://www.marca.com/'
-  amz: 'https://www.amazon.{country}/'
+  mrc:  'https://www.marca.com/'
+  amz:  'https://www.amazon.{country}/'
   ikea: 'https://www.ikea.{country}/'
   disc: 'https://discord.com/'
